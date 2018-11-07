@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* EDITED README FOR THE NEXT COMMIT
 * ...
